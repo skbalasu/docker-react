@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Modified on feature branch and then trigger pull request.Learn React
         </a>
       </header>
     </div>
