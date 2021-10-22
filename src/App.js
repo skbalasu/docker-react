@@ -7,14 +7,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>My first web docker program!</p>
+        <p>Cool ... My first web docker program!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Modified on feature branch and then trigger pull request.Learn React
+          success : Modified on feature branch and then trigger pull request.Learn React
         </a>
       </header>
     </div>
